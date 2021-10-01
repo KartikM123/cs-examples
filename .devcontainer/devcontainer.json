@@ -1,4 +1,4 @@
 {
-    "image": "mcr.microsoft.com/vscode/devcontainers/base:mac",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:linux",
         "name": "test"
 }
