@@ -1,4 +1,4 @@
 {
-    "image": "mcr.microsoft.com/vscode/devcontainers/base:windpw",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:w",
         "name": "test"
 }
